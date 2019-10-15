@@ -2,7 +2,7 @@
 	"name" : "timigo/esdk-obs-php",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.6",
+	"version":"4.0",
 	"require" : {
 		"php" : ">=5.6.0",
 		"guzzlehttp/guzzle" : "^6.3",
